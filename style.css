@@ -1,0 +1,32 @@
+body{
+    background-color: #1d2630;
+}
+
+.container{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+h2{
+    color: #007bff;
+}
+
+table{
+    margin-top: 20px;
+}
+
+th,
+td{
+    text-align: center;
+}
+
+#totalAmount{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+label{
+    font-weight: bold;
+}
